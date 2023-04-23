@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**andresrico87/andresrico87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+andresrico87
 
 Here are some ideas to get you started:
 
